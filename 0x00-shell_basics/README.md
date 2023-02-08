@@ -38,3 +38,7 @@
 * Script 1-specified shell to execute the commands that follow in the script
 * Script 2-Delete the file betty
 
+# Bye bye My first directory
+* Script 1-specified shell to execute the commands that follow in the script
+* Script 2-Delete the directory my_first_directory that is in the /tmp directory
+
