@@ -56,5 +56,5 @@
 
 # We are symbols, and inhabit symbols
 * Script 1-specified shell to execute the commands that follow in the script 
-* Script 2-symbolic link to /bin/ls, named __ls__
+* Script 2-Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory_
 
