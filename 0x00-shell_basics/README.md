@@ -22,3 +22,6 @@
 #  I love numbers
 * Script 1-specified shell to execute the commands that follow in the script
 * Script 2-Display current directory contents
+   Long format
+   And hidden files (starting with .)
+   with user and group IDs displayed numerically
