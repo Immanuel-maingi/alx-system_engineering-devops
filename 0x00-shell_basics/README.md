@@ -10,3 +10,7 @@
 # There is no place like home
 * Script 1-specified shell to execute the commands that follow in the script
 * Script 2-changing working directory to user's home directory
+
+# The long format
+* Script 1-specified shell to execute the commands that follow in the script
+* Script 2-Display current directory contents in a long format
