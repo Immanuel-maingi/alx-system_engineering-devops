@@ -58,3 +58,8 @@
 * Script 1-specified shell to execute the commands that follow in the script 
 * Script 2-Create a symbolic link to /bin/ls, named __ls__
 
+# Copy HTML files
+* Script 1-specified shell to execute the commands that follow in the script
+* Script 2-Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
+    You can consider that all HTML files have the extension .html
+
