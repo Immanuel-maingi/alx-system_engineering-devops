@@ -34,3 +34,7 @@
 * Script 1-specified shell to execute the commands that follow in the script
 * Script 2-Move the file betty from /tmp/ to /tmp/my_first_directory
 
+# Bye bye Betty
+* Script 1-specified shell to execute the commands that follow in the script
+* Script 2-Delete the file betty
+
