@@ -71,3 +71,7 @@
 * Script 1-specified shell to execute the commands that follow in the script
 * Script 2-Create a script that deletes all files in the current working directory that end with the character ~
 
+# Tree
+* Script 1-specified shell to execute the commands that follow in the script
+* Script 2-Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
+
