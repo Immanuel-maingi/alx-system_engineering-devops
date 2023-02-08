@@ -54,3 +54,7 @@
 * Script 1-specified shell to execute the commands that follow in the script
 * Script 2-prints the type of the file named iamafile in the /tmp directory
 
+# We are symbols, and inhabit symbols
+* Script 1-specified shell to execute the commands that follow in the script 
+* Script 2-symbolic link to /bin/ls, named __ls__
+
