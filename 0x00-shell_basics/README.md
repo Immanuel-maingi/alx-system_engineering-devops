@@ -67,3 +67,7 @@
 * Script 1-specified shell to execute the commands that follow in the script
 * Script 2-Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u
 
+# Clean Emacs
+* Script 1-specified shell to execute the commands that follow in the script
+* Script 2-Create a script that deletes all files in the current working directory that end with the character ~
+
