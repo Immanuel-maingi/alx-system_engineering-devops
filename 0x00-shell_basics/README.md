@@ -42,3 +42,7 @@
 * Script 1-specified shell to execute the commands that follow in the script
 * Script 2-Delete the directory my_first_directory that is in the /tmp directory
 
+# Back to the future
+* Script 1-specified shell to execute the commands that follow in the script
+* Script 2-changes the working directory to the previous one
+
