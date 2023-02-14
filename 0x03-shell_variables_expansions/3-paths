@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ld PATH/* | wc -l
+find /PATH | wc -l
